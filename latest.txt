@@ -1,2 +1,3 @@
 "latest" 
-THIS IS TOO MUCH for tag
+THIS IS TOO MUCH for tag.
+THIS IS FOR STASH .
